@@ -1,0 +1,3 @@
+git clone https://github.com/CreatorGhost/QuoraWebApp.git
+git remote set-url origin https://github.com/CreatorGhost/QuoraWebApp.git
+git push -u origin master
